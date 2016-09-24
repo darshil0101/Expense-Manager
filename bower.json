@@ -1,0 +1,26 @@
+{
+  "name": "EM Bower Configuration",
+  "description": "Expense Manager",
+  "main": "index.js",
+  "authors": [
+    "Darshil Patel"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/darshil0101/Expense-Manager",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "angular": "^1.5.8",
+    "angular-animate": "^1.5.8",
+    "lodash": "^4.16.1",
+    "angular-route": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "bootstrap": "^3.3.7"
+  }
+}
