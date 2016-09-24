@@ -1,3 +1,22 @@
-.idea
+# =======================================
+#       Ignore WebStorm Files
+# =======================================
+.idea/
+
+# =======================================
+#       Ignore Build Artifacts
+# =======================================
+
+# ignore bower components
 bower_components/
+coverage/
+docs/
+dist/
+deploy.zip
+.tmp/
+sha.txt
+CHANGELOG.md
+# ignore almost all node modules
 node_modules/
+!node_modules/an_build_common/
+!node_modules/an_karma_common/

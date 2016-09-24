@@ -1,0 +1,32 @@
+{
+    "opts": {
+        "destination": "docs/"
+    },
+    "source": {
+        "exclude": [
+
+        ],
+        "include": [
+            "README.md"
+        ]
+    },
+    "tags": {
+        "allowUnknownTags": false
+    },
+    "templates": {
+        "cleverLinks": true,
+        "collapseSymbols": false,
+        "copyright": "Darshil Patel",
+        "footer": "",
+        "highlightTutorialCode": true,
+        "inverseNav": true,
+        "linenums": true,
+        "navType": "vertical",
+        "outputSourceFiles": true,
+        "outputSourcePath": true,
+        "path": "ink-docstrap",
+        "syntaxTheme": "dark",
+        "systemName": "pat",
+        "theme": "cerulean"
+    }
+}

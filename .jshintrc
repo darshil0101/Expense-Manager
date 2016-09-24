@@ -1,0 +1,26 @@
+{
+  "node": true,
+  "strict": false,
+  "esversion": 6,
+  // Custom Globals
+  // additional predefined global variables
+  "globals": {
+    "expect": true,
+    "afterEach": false,
+    "beforeEach": false,
+    "describe": false,
+    "it": false,
+    "$": true,
+    "jQuery": true,
+    "_": true,
+    "thief": true,
+    "define": true,
+    "angular": true,
+    "app": true,
+    "Slick": true,
+    "mockUtils": true,
+    "spyOn": true,
+    "jasmine": true,
+    "document": true
+  }
+}
